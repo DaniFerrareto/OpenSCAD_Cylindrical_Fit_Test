@@ -2,7 +2,7 @@
 
 res=100;
 // Forneça o diâmetro da peça cilíndrica:
-diam=10;
+diam=9.5;
 
 folga=0.025;
 
